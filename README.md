@@ -1,4 +1,6 @@
-# parallel-cuda
+# Parallel Computing with CUDA
+
+Harnessing the Power of the GPU (CUDA) to Accelerate a Jacobi Algorithm to solving System of Linear Equation.
 
 ## Hardware Config
 
