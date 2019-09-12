@@ -1,6 +1,6 @@
 # Parallel Computing with CUDA
 
-Harnessing the Power of the GPU (CUDA) to Accelerate a Jacobi Algorithm to solving System of Linear Equation.
+Harnessing the Power of the GPU (CUDA) to Accelerate Jacobi Algorithm to solving System of Linear Equation and Benchmarking the Parallel Level Speedup.
 
 ## Hardware Config
 
