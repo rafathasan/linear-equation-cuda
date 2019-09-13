@@ -1,6 +1,6 @@
 # Parallel Computing with CUDA
 
-Harnessing the Power of the GPU (CUDA) to Accelerate Jacobi Algorithm to solving System of Linear Equation and Benchmarking the Parallel Level Speedup. The Program wrote in C and compilerd with NVIDIA CUDA Compiler.
+Harnessing the Power of the GPU (CUDA) to Accelerate Jacobi Algorithm to solving System of Linear Equation and Benchmarking the Parallel Level Speedup. The Program waas write in C and compilerd with NVIDIA CUDA Compiler.
 
 ## Hardware Config
 
