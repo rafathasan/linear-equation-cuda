@@ -6,8 +6,7 @@ Harnessing the Power of the GPU (CUDA) to Accelerate Jacobi Algorithm to solving
 
 | Model           | Architecture | SM Count | CUDA Units|Clock speed| Memory Clock |
 | ----------------|--------------|----------|-----------|-----------|--------------|
-| TU106-200A-KA-A1|Turing (12nm) |    30    |    1920   | 1365 MHz  |1750 MHz      14000 MHz(max)|
-|                 |              |          |           |           ||
+| TU106-200A-KA-A1|Turing (12nm) |    30    |    1920   | 1365 MHz  |1750 MHz<br>14000 MHz(max)|
 
 ## Run Config
 
